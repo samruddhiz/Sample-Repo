@@ -5,6 +5,7 @@ public class Code {
 		// TODO Auto-generated method stub
 System.out.println("Hello Sample");
 System.out.println("Added new line of code here...");
-	}
+System.out.println("A new line");
+}
 
 }
